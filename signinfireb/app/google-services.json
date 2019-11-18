@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "150144771247",
+    "firebase_url": "https://signin-fireb.firebaseio.com",
+    "project_id": "signin-fireb",
+    "storage_bucket": "signin-fireb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150144771247:android:696381d8b3fd25c001205a",
+        "android_client_info": {
+          "package_name": "com.example.signinfireb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150144771247-f5ue02dcn5r4916met7pnq1bhq7hj8jk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signinfireb",
+            "certificate_hash": "920a670c3febf738a0842be38b80bca2970bd166"
+          }
+        },
+        {
+          "client_id": "150144771247-te5id70tf7pachrlecmame0gfouihp5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiIq9dsNpn5hn17uhn1R8ricAZP0mcHjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150144771247-te5id70tf7pachrlecmame0gfouihp5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
