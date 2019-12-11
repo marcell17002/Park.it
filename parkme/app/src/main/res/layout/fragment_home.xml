@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <ImageView
+        android:src="@drawable/a13"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="220dp"
+        android:layout_marginBottom="580dp"
+        android:layout_marginTop="0dp"/>
+    <ImageView
+        android:src="@drawable/c11"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="280dp"
+        android:layout_marginTop="555dp"/>
+    <TextView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:textSize="40dp"
+       android:text="Welcome"
+       android:layout_marginTop="70dp"
+       android:layout_marginLeft="40dp"
+       android:textColor="@android:color/holo_blue_light"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="17dp"
+        android:text="Temukan Lokasi-mu\nCari Posisi yang Nyaman\nParkir dan Sewa semaumu  "
+        android:layout_marginTop="140dp"
+        android:layout_marginLeft="40dp"
+        android:textColor="@android:color/holo_blue_dark"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/illustration"
+        android:layout_marginTop="100dp"/>
+
+
+    <Button
+        android:id="@+id/find_out"
+        android:layout_width="183dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="190dp"
+        android:layout_marginTop="580dp"
+        android:text="Find Out"
+        android:textColor="@android:color/holo_blue_light"/>
+</RelativeLayout>
